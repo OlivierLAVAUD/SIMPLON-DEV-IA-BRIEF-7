@@ -101,6 +101,9 @@ dash_req.py is a interface connector program used to decalare endpoints API func
 dashboard_voltaire is th gloabal dashboard use dash langage with callbacks
 
 as required use
+
 dashboard_agent.py
+
 dashboard_ceo.py
+
 dash_predict.py
