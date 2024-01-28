@@ -98,4 +98,9 @@ Feel free to explore and interact with the different features of the dashboard t
 # Technical Aspects
 api_client.py is a generic function to get information about endpoints using python package requests)
 dash_req.py is a interface connector program used to decalare endpoints API functions for Dasboard
-dashboard_voltaire use dash langage with callbacks
+dashboard_voltaire is th gloabal dashboard use dash langage with callbacks
+
+as required use
+dashboard_agent.py
+dashboard_ceo.py
+dash_predict.py
