@@ -1,0 +1,41 @@
+
+
+/* style_voltaire.css */
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond&display=swap');
+
+body {
+  background-color: #f0ead6; /* Couleur crème pour évoquer le papier ancien */
+  font-family: 'EB Garamond', 'Times New Roman', serif; /* Police Google 'EB Garamond' avec fallback sur 'Times New Roman' et serif */
+}
+
+h1 {
+  color: #3b5998; /* Bleu foncé pour le titre */
+  font-size: 34px; /
+}
+
+text {
+  color: #3b5998; /* Bleu foncé pour le titre */
+  font-size: 34px; /* Augmenter la taille de la police à 24px */
+
+}
+label {
+  font-weight: normal; /* Police normale pour les étiquettes */
+  font-size: 12px; /* Augmenter la taille de la police à 12px */
+}
+
+input {
+  margin-bottom: 10px;
+  font-family: 'EB Garamond', 'Times New Roman', serif; /* Utiliser la même police pour les champs de saisie */
+}
+
+.button {
+  background-color: #8b0000; /* Rouge foncé pour les boutons */
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  font-family: 'EB Garamond', 'Times New Roman', serif; /* Utiliser la même police pour les boutons */
+}
