@@ -15,7 +15,7 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 app.layout = html.Div([
     html.H1("Dashboard CEO"),
-
+    
  
     html.Div([
         html.Label("Transactions count par département"),

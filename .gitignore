@@ -2,3 +2,6 @@
 *.pkl
 *.db
 data/transactions_upload.csv
+data/immo
+data/immo-journal
+data/.project
