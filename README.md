@@ -94,3 +94,7 @@ cd <repository-directory>`
 -   Click the "Valider" button to calculate and display the Top 10 prix plus haut par maison.
 
 Feel free to explore and interact with the different features of the dashboard to gain insights into real estate and financial data.
+
+# Technical Aspects
+dash_req.py is a interface code (connecteur)to decalare endpoints API functions for Dasboard (using api_client with helpful python package requets)
+dashboard_voltaire use dash declarative langage with callbacks
